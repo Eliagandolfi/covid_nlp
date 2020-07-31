@@ -1,0 +1,4 @@
+*.env
+*.csv
+/short_reviews
+*/__pycache__
